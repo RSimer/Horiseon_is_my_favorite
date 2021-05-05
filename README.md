@@ -19,5 +19,21 @@ creating more acessible and readable code for the website Horiseon. A company th
 
  ## Usage
 
- When activated, the code will be percieved in the following photo, however, the website is not yet able to be shown effectively in screens smaller than a full size window 
+ When activated, the code will be percieved in the following photo. However, the website is not yet able to be shown effectively in screens smaller than a full size window 
+
 ![Screenshot](assets/images/horiseon_screenshot.png)
+
+
+## Credits
+
+People who were a huge help on this project were the professor, TA and students of the UW coding bootcamp cohort of summer 2021. Special thanks to my tutor Aaron Centeno who gave me extra tips.
+
+
+## References
+
+https://github.com/pkriengsiri/horiseon-code-refactor
+https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+
+
+
+
