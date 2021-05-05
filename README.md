@@ -20,7 +20,4 @@ creating more acessible and readable code for the website Horiseon. A company th
  ## Usage
 
  When activated, the code will be percieved in the following photo, however, the website is not yet able to be shown effectively in screens smaller than a full size window 
-
-```md
 ![Screenshot](assets/images/horiseon_screenshot.png)
-```
